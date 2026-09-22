@@ -1,0 +1,9 @@
+{
+  "name": "九幽曲解",
+  "version": "1.0.0",
+  "category": "creative-writing",
+  "description": "曲解流短剧剧本生成器",
+  "author": "yangqingi",
+  "entry": "SKILL.md",
+  "references": []
+}
